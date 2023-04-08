@@ -1,2 +1,2 @@
 github "mxcl/PromiseKit" ~> 6.8.4
-github "Alamofire/Alamofire" ~> 4.0
+github "kenstir/Alamofire" "8a56725e2beeda9b3220fb15cf50ed029749dc55"
